@@ -32,7 +32,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
         item << "gifts"
       end
     end
-  end    
+  end
 end
 
 
